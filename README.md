@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charan07-nani
+- 👋 Hi, I’m @Charan
 - 👀 I’m interested in Java,HTML,CSS and SQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
